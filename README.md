@@ -104,27 +104,11 @@ The project includes several computer graphics concepts:
 
 ---
 
-# ▶️ Running the Game
+# 🌐 Play Online
 
-Clone the repository:
+You can play the game directly in your browser here:
 
-```bash
-git clone YOUR_GITHUB_LINK
-```
-
-Open the project folder and run:
-
-```bash
-start index.html
-```
-
-or use a simple local server:
-
-```bash
-python -m http.server 8000
-```
-
-Then open the browser and play the game.
+[🎮 Play Space Shooter]https://aslihanakan.github.io/Space-Shooter-Meteor-Defense-Game/
 
 ---
 
