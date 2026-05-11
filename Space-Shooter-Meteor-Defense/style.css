@@ -2,7 +2,7 @@ body {
   margin: 0;
   min-height: 100vh;
 
-  /* DERİN UZAY ARKA PLAN */
+ 
   background:
     radial-gradient(circle at 20% 30%, rgba(59,130,246,0.15), transparent 40%),
     radial-gradient(circle at 80% 20%, rgba(147,51,234,0.12), transparent 40%),
@@ -17,7 +17,7 @@ body {
   overflow: hidden;
 }
 
-/* ⭐ STATİK YILDIZLAR */
+
 body::before {
   content: "";
   position: fixed;
@@ -36,8 +36,6 @@ body::before {
 }
 
 
-
-/* 🔥 BAŞLIK (NEON EFFECT) */
 .game-title {
   color: white;
   font-size: 42px;
@@ -50,7 +48,6 @@ body::before {
     0 0 40px #38bdf8;
 }
 
-/* 🎮 CANVAS (GAME PANEL) */
 canvas {
   border: 2px solid #cbd5e1;
 
@@ -59,7 +56,6 @@ canvas {
     0 0 60px rgba(59,130,246,0.25);
 }
 
-/* ORTALAMA */
 .game-wrapper {
   text-align: center;
 }
