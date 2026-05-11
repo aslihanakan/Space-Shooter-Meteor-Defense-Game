@@ -108,7 +108,7 @@ The project includes several computer graphics concepts:
 
 You can play the game directly in your browser here:
 
-[🎮 Play Space Shooter]https://aslihanakan.github.io/Space-Shooter-Meteor-Defense-Game/
+[🎮 Play Space Shooter] https://aslihanakan.github.io/Space-Shooter-Meteor-Defense-Game/
 
 ---
 
